@@ -1,0 +1,3 @@
+[run]
+source = mlresapp
+omit = mlresapp/test*
